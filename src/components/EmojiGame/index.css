@@ -1,0 +1,21 @@
+.main-container {
+  width: 600px;
+  border: 1px solid green;
+  padding: 15px;
+  background-color: #c2aae2;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.unorderList {
+  width: 550px;
+  border: 1px solid red;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 10px 30px;
+}
+.image {
+  height: 90px;
+}

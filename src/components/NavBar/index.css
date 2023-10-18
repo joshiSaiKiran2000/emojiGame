@@ -1,0 +1,11 @@
+.nav-container {
+  /* margin: 0px; */
+  background-color: #bab2ee;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.score-container {
+  display: flex;
+  gap: 20px;
+}

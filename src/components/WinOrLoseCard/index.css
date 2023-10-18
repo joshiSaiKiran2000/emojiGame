@@ -1,0 +1,13 @@
+/* Write your code here. */
+.image {
+  /* height: 100px; */
+}
+.winloseContainer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.winimage {
+  height: 300px;
+}
